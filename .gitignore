@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Notes folder
+notes/
+
+# Python cache / temp files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# FAISS or other vector store artifacts
+artifacts/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
