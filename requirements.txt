@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+faiss-cpu
+python-dotenv
+tiktoken
+markdown-it-py
+unstructured
+pypdf
+docx2txt
